@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sergii-ziborov.github.io/cardavela-site/sitemap.xml
